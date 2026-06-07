@@ -28,7 +28,7 @@ Software Engineer specializing in native Android and Kotlin Multiplatform (KMP) 
 
 ## 🚀 Flagship Architecture & Projects
 
-### [Project Codex Vanguard (Dynamic-UI)]([https://github.com/santanu2032](https://github.com/santanu2032/Dynamic-UI))
+### [Project Codex Vanguard (Dynamic-UI)](https://github.com/santanu2032/Dynamic-UI)
 *Enterprise-Grade Multi-Platform Motion & Visual Engine*
 
 Engineered a highly scalable, multi-platform ecosystem capable of running natively across Android and the Windows JVM. The system processes real-time audio and drives a reactive 2D particle engine at 60fps.
